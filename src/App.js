@@ -28,6 +28,7 @@ function App() {
   return (
     <div>
       <h2 className='react'>REACT</h2>
+      <p className='react'>Lets get started!</p>
       <ExpenseItem
         title={expenses[0].title}
         amount={expenses[0].amount}

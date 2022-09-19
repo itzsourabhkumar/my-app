@@ -1,4 +1,9 @@
 
 h2.react {
   text-align: center;
+  font-weight: bolder;
+}
+
+p.react {
+  text-align: center;
 }
