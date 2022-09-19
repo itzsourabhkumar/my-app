@@ -10,11 +10,11 @@ function App() {
       amount: 94000000.12,
       date: new Date(2020, 7, 14),
     },
-    { id: 'e2', title: 'New TV', amount: 799.49, date: new Date(2021, 2, 12) },
+    { id: 'e2', title: 'old tv', amount: 799.49, date: new Date(2021, 2, 12) },
     {
       id: 'e3',
-      title: 'Car Insurance',
-      amount: 294.67,
+      title: 'HOUSE',
+      amount: 2940858.67,
       date: new Date(2021, 2, 28),
     },
     {
